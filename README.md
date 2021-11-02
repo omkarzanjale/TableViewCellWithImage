@@ -5,5 +5,4 @@
  UITableView,
  UITableViewCell,
  UIImageView,
- UILabel,
- UIButton.
+ UILabel.
